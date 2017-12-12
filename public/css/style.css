@@ -1,0 +1,14 @@
+.navbar{
+    margin-bottom: 30px;
+}
+
+/*
+* MEDIA
+*/
+.media h5 a{
+    color: #2a2a2a;
+}
+
+.media-body{
+    margin-left: 15px;
+}
